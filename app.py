@@ -1,3 +1,4 @@
 import streamlit as st
-st.title('데이터 앱 만들기')
-st.header('아무꺼나')
+st.title('수학의 세계')
+st.header('정수의 덧셈과 뺄셈')
+st.success('유리수의 덧셈과 뺄셈')
